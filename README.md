@@ -1,3 +1,5 @@
 # BADGE
 BADGE
-this is python program for finger counte used opencv and mediapipe.
+
+This is a Python finger-counter program using OpenCV and MediaPipe.
+(Added a line for the Pull Shark demo.)
