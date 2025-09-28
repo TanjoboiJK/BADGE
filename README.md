@@ -1,0 +1,1 @@
+this is finger counter.py program
