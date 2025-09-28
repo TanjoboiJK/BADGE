@@ -1,4 +1,5 @@
 # BADGE
 BADGE
-This finger counter project gg.
-Added a line for Pull Shark demo
+
+This is a Python finger-counter program using OpenCV and MediaPipe.
+(Added a line for the Pull Shark demo.)
